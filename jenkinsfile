@@ -1,4 +1,5 @@
 //declarative pipeline syntax
+
 pipeline{
     
     agent { label 'linux_node'{
